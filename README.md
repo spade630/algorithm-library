@@ -1,1 +1,1 @@
-# algorithm-library
+# 競技プログミラング用のライブラリ
